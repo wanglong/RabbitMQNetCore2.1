@@ -1,0 +1,10 @@
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\bin\Debug\netcoreapp2.1\RMQCustomer.deps.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\bin\Debug\netcoreapp2.1\RMQCustomer.runtimeconfig.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\bin\Debug\netcoreapp2.1\RMQCustomer.runtimeconfig.dev.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\bin\Debug\netcoreapp2.1\RMQCustomer.dll
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\obj\Debug\netcoreapp2.1\RMQCustomer.csproj.CoreCompileInputs.cache
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\obj\Debug\netcoreapp2.1\RMQCustomer.AssemblyInfoInputs.cache
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\obj\Debug\netcoreapp2.1\RMQCustomer.AssemblyInfo.cs
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\bin\Debug\netcoreapp2.1\RMQCustomer.pdb
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\obj\Debug\netcoreapp2.1\RMQCustomer.dll
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQCustomer\obj\Debug\netcoreapp2.1\RMQCustomer.pdb

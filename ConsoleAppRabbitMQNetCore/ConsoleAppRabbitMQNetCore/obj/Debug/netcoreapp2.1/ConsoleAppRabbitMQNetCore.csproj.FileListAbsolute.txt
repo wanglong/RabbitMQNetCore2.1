@@ -1,0 +1,10 @@
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\bin\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.deps.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\bin\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.runtimeconfig.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\bin\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.runtimeconfig.dev.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\bin\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.dll
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\obj\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.csproj.CoreCompileInputs.cache
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\obj\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.AssemblyInfoInputs.cache
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\obj\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.AssemblyInfo.cs
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\bin\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.pdb
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\obj\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.dll
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\ConsoleAppRabbitMQNetCore\obj\Debug\netcoreapp2.1\ConsoleAppRabbitMQNetCore.pdb

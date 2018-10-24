@@ -1,0 +1,11 @@
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\bin\Debug\netcoreapp2.1\RMQProducter.deps.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\bin\Debug\netcoreapp2.1\RMQProducter.runtimeconfig.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\bin\Debug\netcoreapp2.1\RMQProducter.runtimeconfig.dev.json
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\bin\Debug\netcoreapp2.1\RMQProducter.dll
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\obj\Debug\netcoreapp2.1\RMQProducter.csproj.CoreCompileInputs.cache
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\obj\Debug\netcoreapp2.1\RMQProducter.AssemblyInfoInputs.cache
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\obj\Debug\netcoreapp2.1\RMQProducter.AssemblyInfo.cs
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\bin\Debug\netcoreapp2.1\RMQProducter.pdb
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\obj\Debug\netcoreapp2.1\RMQProducter.dll
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\obj\Debug\netcoreapp2.1\RMQProducter.pdb
+D:\doc\VS2017Work\ConsoleAppRabbitMQNetCore\RMQProducter\obj\Debug\netcoreapp2.1\RMQProducter.csprojAssemblyReference.cache
